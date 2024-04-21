@@ -1,0 +1,16 @@
+header {
+  background-image: url("https://via.placeholder.com/1920x1080");
+  background-size: cover; /* Ensures the background image covers the entire header */
+  background-position: center; /* Centers the background image within the header */
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0; /* Ensures the header reaches the left edge */
+  right: 0; /* Ensures the header reaches the right edge */
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
