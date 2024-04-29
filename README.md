@@ -4,6 +4,8 @@
 - 🧠 I am talented at coding HTML
 - 💞️ I’m not looking to collaborate on anything yet.
 - 📫 How to reach me. Email: pughutstudios@gmail.com
+Discord:
+pughutstudios 
 
 🤫🧏‍♂️
 
